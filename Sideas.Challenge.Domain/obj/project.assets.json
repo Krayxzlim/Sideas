@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj",
       "projectName": "Sideas.Challenge.Domain",
-      "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj",
+      "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj",
       "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

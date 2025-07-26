@@ -13,3 +13,19 @@ C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.
 C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Application\obj\Debug\net9.0\refint\Sideas.Challenge.Application.dll
 C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Application\obj\Debug\net9.0\Sideas.Challenge.Application.pdb
 C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Application\obj\Debug\net9.0\ref\Sideas.Challenge.Application.dll
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\bin\Debug\net9.0\Sideas.Challenge.Application.deps.json
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\bin\Debug\net9.0\Sideas.Challenge.Application.dll
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\bin\Debug\net9.0\Sideas.Challenge.Application.pdb
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\bin\Debug\net9.0\Sideas.Challenge.Domain.dll
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\bin\Debug\net9.0\Sideas.Challenge.Domain.pdb
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\obj\Debug\net9.0\Sideas.Challenge.Application.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\obj\Debug\net9.0\Sideas.Challenge.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\obj\Debug\net9.0\Sideas.Challenge.Application.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\obj\Debug\net9.0\Sideas.Challenge.Application.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\obj\Debug\net9.0\Sideas.Challenge.Application.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\obj\Debug\net9.0\Sideas.Challenge.Application.sourcelink.json
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\obj\Debug\net9.0\Sideas.C.01D1059F.Up2Date
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\obj\Debug\net9.0\Sideas.Challenge.Application.dll
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\obj\Debug\net9.0\refint\Sideas.Challenge.Application.dll
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\obj\Debug\net9.0\Sideas.Challenge.Application.pdb
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Application\obj\Debug\net9.0\ref\Sideas.Challenge.Application.dll

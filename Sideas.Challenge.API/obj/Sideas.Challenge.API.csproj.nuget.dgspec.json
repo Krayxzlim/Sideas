@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.API\\Sideas.Challenge.API.csproj": {}
+    "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.API\\Sideas.Challenge.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.API\\Sideas.Challenge.API.csproj": {
+    "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.API\\Sideas.Challenge.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.API\\Sideas.Challenge.API.csproj",
+        "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.API\\Sideas.Challenge.API.csproj",
         "projectName": "Sideas.Challenge.API",
-        "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.API\\Sideas.Challenge.API.csproj",
+        "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.API\\Sideas.Challenge.API.csproj",
         "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.API\\obj\\",
+        "outputPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Application\\Sideas.Challenge.Application.csproj": {
-                "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Application\\Sideas.Challenge.Application.csproj"
+              "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Application\\Sideas.Challenge.Application.csproj": {
+                "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Application\\Sideas.Challenge.Application.csproj"
               },
-              "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Infrastructure\\Sideas.Challenge.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Infrastructure\\Sideas.Challenge.Infrastructure.csproj"
+              "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Infrastructure\\Sideas.Challenge.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Infrastructure\\Sideas.Challenge.Infrastructure.csproj"
               }
             }
           }
@@ -111,14 +111,14 @@
         }
       }
     },
-    "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Application\\Sideas.Challenge.Application.csproj": {
+    "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Application\\Sideas.Challenge.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Application\\Sideas.Challenge.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Application\\Sideas.Challenge.Application.csproj",
         "projectName": "Sideas.Challenge.Application",
-        "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Application\\Sideas.Challenge.Application.csproj",
+        "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Application\\Sideas.Challenge.Application.csproj",
         "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Application\\obj\\",
+        "outputPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -139,8 +139,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj": {
-                "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj"
+              "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj"
               }
             }
           }
@@ -186,14 +186,14 @@
         }
       }
     },
-    "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj": {
+    "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj",
         "projectName": "Sideas.Challenge.Domain",
-        "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj",
+        "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj",
         "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -257,14 +257,14 @@
         }
       }
     },
-    "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Infrastructure\\Sideas.Challenge.Infrastructure.csproj": {
+    "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Infrastructure\\Sideas.Challenge.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Infrastructure\\Sideas.Challenge.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Infrastructure\\Sideas.Challenge.Infrastructure.csproj",
         "projectName": "Sideas.Challenge.Infrastructure",
-        "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Infrastructure\\Sideas.Challenge.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Infrastructure\\Sideas.Challenge.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Luciano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -285,8 +285,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj": {
-                "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj"
+              "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Domain\\Sideas.Challenge.Domain.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hSTWccJbm/E=",
+  "dgSpecHash": "8Q66Fzn/Cqc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luciano\\Desktop\\Sideas.Challenge\\Sideas\\Sideas.Challenge.Application\\Sideas.Challenge.Application.csproj",
+  "projectFilePath": "C:\\Users\\Luciano\\Desktop\\Sideas\\Sideas.Challenge.Application\\Sideas.Challenge.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512",
     "C:\\Users\\Luciano\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.7\\microsoft.extensions.logging.abstractions.9.0.7.nupkg.sha512",

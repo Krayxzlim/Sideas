@@ -76,8 +76,8 @@ builder.Services.AddScoped<AsignacionService>();
 services.AddHttpClient<HttpService>();
 
 var app = builder.Build();
-
-app.UseCors("AllowAngularApp"); // ⬅️ Antes de app.UseAuthorization();
+app.UseRouting();
+app.UseCors("AllowAngularClient");
 
 app.UseAuthorization();
 

@@ -15,3 +15,21 @@ C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.
 C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\ref\Sideas.Challenge.Infrastructure.dll
 C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Infrastructure\bin\Debug\net9.0\Sideas.Challenge.Infrastructure.runtimeconfig.json
 C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\Sideas.Challenge.Infrastructure.genruntimeconfig.cache
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\bin\Debug\net9.0\Sideas.Challenge.Infrastructure.deps.json
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\bin\Debug\net9.0\Sideas.Challenge.Infrastructure.runtimeconfig.json
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\bin\Debug\net9.0\Sideas.Challenge.Infrastructure.dll
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\bin\Debug\net9.0\Sideas.Challenge.Infrastructure.pdb
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\bin\Debug\net9.0\Sideas.Challenge.Domain.dll
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\bin\Debug\net9.0\Sideas.Challenge.Domain.pdb
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\Sideas.Challenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\Sideas.Challenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\Sideas.Challenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\Sideas.Challenge.Infrastructure.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\Sideas.Challenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\Sideas.Challenge.Infrastructure.sourcelink.json
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\Sideas.C.0E85CADB.Up2Date
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\Sideas.Challenge.Infrastructure.dll
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\refint\Sideas.Challenge.Infrastructure.dll
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\Sideas.Challenge.Infrastructure.pdb
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\Sideas.Challenge.Infrastructure.genruntimeconfig.cache
+C:\Users\Luciano\Desktop\Sideas\Sideas.Challenge.Infrastructure\obj\Debug\net9.0\ref\Sideas.Challenge.Infrastructure.dll
