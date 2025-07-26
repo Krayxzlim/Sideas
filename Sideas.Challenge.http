@@ -1,0 +1,6 @@
+@Sideas.Challenge_HostAddress = http://localhost:5001
+
+GET {{Sideas.Challenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

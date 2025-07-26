@@ -1,0 +1,34 @@
+<div class="container mt-4">
+  <h2>Listado de Profesiones</h2>
+
+  <!-- Input para filtrar la tabla por descripción -->
+  <input
+    type="text"
+    class="form-control mb-3"
+    placeholder="Filtrar por descripción..."
+    (input)="onFiltroChange($event)"
+  />
+  <!-- Evento para actualizar filtro -->
+
+  <table class="table table-bordered table-striped">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Codigo</th>
+        <th>Especialidad</th>
+        <th>Descripción</th>
+        <th>Estado</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Recorre el arreglo filtrado para mostrar cada profesión -->
+      <tr *ngFor="let profesion of profesionesFiltradas">
+        <td>{{ profesion.id }}</td>
+        <td>{{ profesion.profesionCodigo }}</td>
+        <td>{{ profesion.especialidad }}</td>
+        <td>{{ profesion.descripcion }}</td>
+        <td>{{ profesion.estado }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

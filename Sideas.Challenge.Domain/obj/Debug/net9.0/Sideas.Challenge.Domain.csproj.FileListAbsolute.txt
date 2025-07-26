@@ -1,0 +1,12 @@
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Domain\obj\Debug\net9.0\Sideas.Challenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Domain\obj\Debug\net9.0\Sideas.Challenge.Domain.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Domain\obj\Debug\net9.0\Sideas.Challenge.Domain.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Domain\obj\Debug\net9.0\Sideas.Challenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Domain\bin\Debug\net9.0\Sideas.Challenge.Domain.deps.json
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Domain\bin\Debug\net9.0\Sideas.Challenge.Domain.dll
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Domain\bin\Debug\net9.0\Sideas.Challenge.Domain.pdb
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Domain\obj\Debug\net9.0\Sideas.Challenge.Domain.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Domain\obj\Debug\net9.0\Sideas.Challenge.Domain.dll
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Domain\obj\Debug\net9.0\refint\Sideas.Challenge.Domain.dll
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Domain\obj\Debug\net9.0\Sideas.Challenge.Domain.pdb
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge.Domain\obj\Debug\net9.0\ref\Sideas.Challenge.Domain.dll

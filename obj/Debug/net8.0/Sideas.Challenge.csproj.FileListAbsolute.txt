@@ -1,0 +1,47 @@
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.csproj.AssemblyReference.cache
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.AssemblyInfoInputs.cache
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.AssemblyInfo.cs
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.csproj.CoreCompileInputs.cache
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.MvcApplicationPartsAssemblyInfo.cs
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.MvcApplicationPartsAssemblyInfo.cache
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\bin\Debug\net8.0\appsettings.Development.json
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\bin\Debug\net8.0\appsettings.json
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\bin\Debug\net8.0\Sideas.Challenge.staticwebassets.endpoints.json
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\bin\Debug\net8.0\Sideas.Challenge.exe
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\bin\Debug\net8.0\Sideas.Challenge.deps.json
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\bin\Debug\net8.0\Sideas.Challenge.runtimeconfig.json
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\bin\Debug\net8.0\Sideas.Challenge.dll
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\bin\Debug\net8.0\Sideas.Challenge.pdb
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\scopedcss\bundle\Sideas.Challenge.styles.css
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\staticwebassets.build.json
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\staticwebassets.development.json
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\staticwebassets\msbuild.Sideas.Challenge.Microsoft.AspNetCore.StaticWebAssets.props
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\staticwebassets\msbuild.Sideas.Challenge.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\staticwebassets\msbuild.build.Sideas.Challenge.props
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Sideas.Challenge.props
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Sideas.Challenge.props
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\staticwebassets.pack.json
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.C.C940C322.Up2Date
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.dll
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\refint\Sideas.Challenge.dll
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.pdb
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.genruntimeconfig.cache
+C:\repo\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\ref\Sideas.Challenge.dll
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.dll
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\refint\Sideas.Challenge.dll
+C:\Users\Luciano\Desktop\Nueva carpeta\Sideas.Challenge\Sideas.Challenge\Sideas.Challenge\obj\Debug\net8.0\Sideas.Challenge.pdb
