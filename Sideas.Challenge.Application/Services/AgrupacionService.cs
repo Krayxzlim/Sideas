@@ -12,7 +12,7 @@ namespace Sideas.Challenge.Application.Services
     /// </summary>
     public class AgrupacionService
     {
-        private readonly HttpService _httpService;
+        private readonly IHttpService _httpService;
         private readonly IAgrupacionRepository _agrupacionRepository;
         private readonly IProfesionRepository _profesionRepository;
         private readonly IAgrupacionProfesionRepository _agrupacionProfesionRepository;
@@ -20,7 +20,7 @@ namespace Sideas.Challenge.Application.Services
 
         public AgrupacionService(
             ILogger<AgrupacionService> logger,
-            HttpService httpService,
+            IHttpService httpService,
             IAgrupacionRepository agrupacionRepository,
             IProfesionRepository profesionRepository,
             IAgrupacionProfesionRepository agrupacionProfesionRepository)

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sideas.Challenge.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b96871a0336b7c5ce310a4f6a5859b255041331")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7760d3ddad0277b15c752fa934b8751bdb380bac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sideas.Challenge.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sideas.Challenge.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

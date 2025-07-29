@@ -73,7 +73,8 @@ builder.Services.AddScoped<FueroService>();
 builder.Services.AddScoped<AsignacionService>();
 
 // Configurar servicio HTTP para consumir APIs externas
-services.AddHttpClient<HttpService>();
+builder.Services.AddHttpClient<IHttpService, HttpService>();
+
 
 var app = builder.Build();
 app.UseRouting();

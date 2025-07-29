@@ -5,7 +5,7 @@ namespace Sideas.Challenge.Application.Services
     /// <summary>
     /// Servicio genérico para realizar peticiones HTTP GET y deserializar JSON.
     /// </summary>
-    public class HttpService
+    public class HttpService : IHttpService
     {
         private readonly HttpClient _httpClient;
 

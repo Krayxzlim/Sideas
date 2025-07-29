@@ -10,13 +10,13 @@ namespace Sideas.Challenge.Application.Services
     /// </summary>
     public class FueroService
     {
-        private readonly HttpService _httpService;
+        private readonly IHttpService _httpService;
         private readonly IFueroRepository _fueroRepository;
         private readonly IZonaRepository _zonaRepository;
         private readonly ILogger<FueroService> _logger;
 
         public FueroService(
-            HttpService httpService,
+            IHttpService httpService,
             IFueroRepository fueroRepository,
             IZonaRepository zonaRepository,
             ILogger<FueroService> logger)

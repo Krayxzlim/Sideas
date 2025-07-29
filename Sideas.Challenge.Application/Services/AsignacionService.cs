@@ -11,13 +11,13 @@ namespace Sideas.Challenge.Application.Services
     /// </summary>
     public class AsignacionService
     {
-        private readonly HttpService _httpService;
+        private readonly IHttpService _httpService;
         private readonly IAsignacionRepository _asignacionRepository;
         private readonly ILogger<AsignacionService> _logger;
 
         public AsignacionService(
             ILogger<AsignacionService> logger,
-            HttpService httpService,
+            IHttpService httpService,
             IAsignacionRepository asignacionRepository)
         {
             _logger = logger;
