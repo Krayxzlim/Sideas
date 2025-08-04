@@ -78,14 +78,6 @@ Este proyecto consume datos desde servicios externos (como agrupaciones, profesi
 - Navegar entre los distintos componentes a través del menú.
 - Visualizar los datos de forma responsive y amigable gracias a Bootstrap.
 
----
-
-## Extras posibles
-
-- Agregar tests unitarios o e2e.
-- Extender funcionalidades (CRUD completo).
-- Añadir paginación, ordenamiento, filtros por relaciones (e.g. zona → asignaciones).
-
 ## Decisiones Técnicas y Justificaciones
 
 ### Repositorios separados por entidad
@@ -107,6 +99,7 @@ El proyecto fue organizado en una solución `.NET` con los siguientes proyectos 
 - `Sideas.Challenge.Application`: lógica de negocio, servicios y DTOs/mappers.
 - `Sideas.Challenge.Infrastructure`: implementación de repositorios y acceso a datos con EF Core.
 - `Sideas.Challenge.API`: capa de presentación y configuración de endpoints REST.
+- `Sideas.Challenge.Tests`: logica de testeo
 
 #### Justificación:
 
@@ -154,9 +147,9 @@ El proyecto fue organizado en una solución `.NET` con los siguientes proyectos 
 
 ### Cómo ejecutar los tests
 
-1. Abrí la solución Sideas.Challenge.sln en Visual Studio o tu IDE favorito.
+1. Abrí la solución Sideas.Challenge.sln en Visual Studio o tu IDE.
 
-2. Ubicá el proyecto de tests (generalmente con sufijo .Tests).
+2. Ubicá el proyecto de tests.
 
 3. Ejecutá los tests desde la consola:
 
