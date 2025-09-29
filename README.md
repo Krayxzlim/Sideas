@@ -1,5 +1,3 @@
-# Sideas.Challenge
-
 Este proyecto es una solución full-stack para visualizar datos obtenidos desde APIs externas y almacenarlos en una base de datos SQL Server.
 La solución incluye un backend desarrollado en ASP.NET Core con Entity Framework y un frontend desarrollado en Angular + Bootstrap.
 
